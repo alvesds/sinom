@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/static/js/main.f8710df7.js",
+    "main.js": "/static/js/main.b6e064e3.js",
     "static/js/773.446161ca.js": "/static/js/773.446161ca.js",
     "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Nunito-LightItalic.ttf": "/static/media/Nunito-LightItalic.ca6674927a6bf05c3bf7.ttf",
@@ -19,11 +19,11 @@
     "favicon-16.png": "/favicon-16.png",
     "manifest.json": "/manifest.json",
     "serve.json": "/serve.json",
-    "main.f8710df7.js.map": "/static/js/main.f8710df7.js.map",
+    "main.b6e064e3.js.map": "/static/js/main.b6e064e3.js.map",
     "773.446161ca.js.map": "/static/js/773.446161ca.js.map"
   },
   "entrypoints": [
     "static/js/773.446161ca.js",
-    "static/js/main.f8710df7.js"
+    "static/js/main.b6e064e3.js"
   ]
 }
