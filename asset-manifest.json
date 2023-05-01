@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/static/js/main.f8710df7.js",
+    "static/js/773.446161ca.js": "/static/js/773.446161ca.js",
+    "static/media/MaterialCommunityIcons.ttf": "/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
+    "static/media/Nunito-LightItalic.ttf": "/static/media/Nunito-LightItalic.ca6674927a6bf05c3bf7.ttf",
+    "static/media/Nunito-Light.ttf": "/static/media/Nunito-Light.0ec468f65958d1263b60.ttf",
+    "static/media/Nunito-Regular.ttf": "/static/media/Nunito-Regular.99a3b019e7727ac19479.ttf",
+    "static/media/Nunito-Bold.ttf": "/static/media/Nunito-Bold.f4338623f94e6079de97.ttf",
+    "static/media/icon.png": "/static/media/icon.8b0f1b42afca1939be8c.png",
+    "favicon.ico": "/favicon.ico",
+    "static/media/placeholder.png": "/static/media/placeholder.5d72b7c55ffa1a92367f.png",
+    "index.html": "/index.html",
+    "static/media/underlay.png": "/static/media/underlay.6d2d5ea17ae8c07e6052.png",
+    "static/media/overlay.png": "/static/media/overlay.1d3057c17a49cb52ca1f.png",
+    "static/media/brazil.png": "/static/media/brazil.566c43dc609fdaf4eee9.png",
+    "static/media/usa.png": "/static/media/usa.bc6ea25f6deeee206d45.png",
+    "favicon-32.png": "/favicon-32.png",
+    "favicon-16.png": "/favicon-16.png",
+    "manifest.json": "/manifest.json",
+    "serve.json": "/serve.json",
+    "main.f8710df7.js.map": "/static/js/main.f8710df7.js.map",
+    "773.446161ca.js.map": "/static/js/773.446161ca.js.map"
+  },
+  "entrypoints": [
+    "static/js/773.446161ca.js",
+    "static/js/main.f8710df7.js"
+  ]
+}
